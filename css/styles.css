@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  width: 11%;
+  border-style: dotted;
+  border-width: 0.7rem 0 0 0;
+  border-color: #EAF6F6;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  padding-top: 8rem;
+  background-color: #eaf6f6;
+  position: relative;
+  height: 100vh;
+}
+
+.cloud1 {
+  position: absolute;
+  width: 12rem;
+  right: 12%;
+  top: 11%;
+}
+
+.cloud2 {
+  position: absolute;
+  width: 13rem;
+  left: 9%;
+  top: 22%;
+}
+
+.cloud3 {
+  position: absolute;
+  width: 9rem;
+  right: 42%;
+  bottom: 30%;
+}
+
+.mountain-img {
+  position: absolute;
+  bottom: 0;
+  left: 28%;
+  width: 40%;
+}
+
+/************* MIDDLE *************/
+
+.middle-container {
+
+}
+
+.self-pic {
+  width: 250px;
+  border-width: 0;
+  border-radius: 100%;
+  margin-bottom: 3rem;
+}
+
+.profile {
+  margin: 4rem auto;
+}
+
+.skills {
+  margin: 4rem auto;
+}
+
+.my-skills {
+  margin: 0 auto;
+}
+
+.skill-row-left {
+  width: 50%;
+  margin: 60px auto;
+  text-align: left;
+}
+
+.skill-row-right {
+  width: 50%;
+  margin: 100px auto;
+  text-align: right;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 1.9rem;
+}
+
+.android-img {
+  width: 25%;
+  float: right;
+  margin-left: 1.9rem;
+}
+
+.center-text-h1 {
+  margin: 0 auto 2rem auto;
+  font-size: 5.625rem;
+}
+
+.center-text-h2 {
+  font-family: "Josefin Slab", serif;
+  margin: 1rem auto;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.contact-me {
+  margin: 4rem auto;
+}
+
+.btn-contact {
+  margin-top: 2rem;
+}
+
+/************* BOTTOM *************/
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 2.5rem 0;
+}
+
+.footer-link {
+  margin: 3.5rem;
+}
+
+.footer-icons {
+  margin-top: 1.5rem;
+  color: #EAF6F6;
+}
+
+.footer-icon {
+  margin: 0 0.5rem;
+}
+
+.footer-copyright {
+  margin-top: 1rem;
+  color: #EAF6F6;
+}
